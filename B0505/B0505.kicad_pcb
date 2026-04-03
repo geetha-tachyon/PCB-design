@@ -562,7 +562,7 @@
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
 		(uuid "0c8f7519-fc9a-45c8-a39c-bac4d1f98d65")
-		(at 186.03 73.87 180)
+		(at 186.06 74.48 180)
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D1"
@@ -6429,12 +6429,20 @@
 		(uuid "f9864153-8995-42a9-9a4d-fb80499288bb")
 	)
 	(segment
-		(start 196.4625 75.7725)
-		(end 196.5 75.81)
+		(start 194.7 76.4)
+		(end 195.835 76.4)
 		(width 1)
 		(layer "F.Cu")
 		(net 4)
-		(uuid "00cf7d37-9205-43df-9a5d-356c0ae61e48")
+		(uuid "293ed093-6529-4fd4-9dc3-48a9698b8b2d")
+	)
+	(segment
+		(start 196.4625 75.7725)
+		(end 196.4625 74.775)
+		(width 1)
+		(layer "F.Cu")
+		(net 4)
+		(uuid "50e6f2a6-91b5-4575-b1f1-20682193ae99")
 	)
 	(segment
 		(start 197.91 64.02)
@@ -6453,14 +6461,6 @@
 		(uuid "a835389e-c019-46dd-a3b2-841999e70c9d")
 	)
 	(segment
-		(start 196.4625 74.775)
-		(end 196.4625 75.7725)
-		(width 1)
-		(layer "F.Cu")
-		(net 4)
-		(uuid "aa1facc9-bdcd-4db3-8749-5f98a76e9d59")
-	)
-	(segment
 		(start 196.69 64.02)
 		(end 196.63 63.96)
 		(width 1)
@@ -6475,6 +6475,14 @@
 		(layer "F.Cu")
 		(net 4)
 		(uuid "bd007b43-9f7d-4206-aa78-fec59079574f")
+	)
+	(segment
+		(start 195.835 76.4)
+		(end 196.4625 75.7725)
+		(width 1)
+		(layer "F.Cu")
+		(net 4)
+		(uuid "bd1df661-7e59-44cc-8154-e1270d73eaa1")
 	)
 	(segment
 		(start 200.42 63.955)
@@ -6501,7 +6509,7 @@
 		(uuid "0a81cca8-5334-49ab-84d0-43524164ef2e")
 	)
 	(via
-		(at 196.5 75.81)
+		(at 194.7 76.4)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")

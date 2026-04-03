@@ -3576,7 +3576,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 186.309 64.643 0)
+		(at 181.864 76.327 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3584,7 +3584,7 @@
 		(dnp no)
 		(uuid "4be5c2f3-df85-438e-af52-a2d467f1befc")
 		(property "Reference" "H4"
-			(at 188.849 63.373 0)
+			(at 184.404 75.057 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3593,7 +3593,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 180.594 68.453 0)
+			(at 176.149 80.137 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3602,7 +3602,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 186.309 64.643 0)
+			(at 181.864 76.327 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3611,7 +3611,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 186.309 64.643 0)
+			(at 181.864 76.327 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3620,7 +3620,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 186.309 64.643 0)
+			(at 181.864 76.327 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4110,7 +4110,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 150.749 64.008 0)
+		(at 146.304 75.692 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4118,7 +4118,7 @@
 		(dnp no)
 		(uuid "778c8cea-88c9-4f19-95ab-8542bbffdda8")
 		(property "Reference" "H2"
-			(at 153.289 62.738 0)
+			(at 148.844 74.422 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4127,7 +4127,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 145.034 67.818 0)
+			(at 140.589 79.502 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4136,7 +4136,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 150.749 64.008 0)
+			(at 146.304 75.692 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4145,7 +4145,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 150.749 64.008 0)
+			(at 146.304 75.692 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4154,7 +4154,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 150.749 64.008 0)
+			(at 146.304 75.692 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5005,7 +5005,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 133.604 64.008 0)
+		(at 129.159 75.692 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5013,7 +5013,7 @@
 		(dnp no)
 		(uuid "d41fd249-f762-435a-9886-5f7299c353d3")
 		(property "Reference" "H1"
-			(at 136.144 62.738 0)
+			(at 131.699 74.422 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5022,7 +5022,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 127.889 67.818 0)
+			(at 123.444 79.502 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5031,7 +5031,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 133.604 64.008 0)
+			(at 129.159 75.692 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5040,7 +5040,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.604 64.008 0)
+			(at 129.159 75.692 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5049,7 +5049,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 133.604 64.008 0)
+			(at 129.159 75.692 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5067,7 +5067,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 168.529 64.008 0)
+		(at 164.084 75.692 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5075,7 +5075,7 @@
 		(dnp no)
 		(uuid "dc8b38bd-3e54-455f-a7cc-a516b1977965")
 		(property "Reference" "H3"
-			(at 171.069 62.738 0)
+			(at 166.624 74.422 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5084,7 +5084,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 162.814 67.818 0)
+			(at 158.369 79.502 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5093,7 +5093,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 168.529 64.008 0)
+			(at 164.084 75.692 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5102,7 +5102,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 168.529 64.008 0)
+			(at 164.084 75.692 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5111,7 +5111,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 168.529 64.008 0)
+			(at 164.084 75.692 0)
 			(effects
 				(font
 					(size 1.27 1.27)
