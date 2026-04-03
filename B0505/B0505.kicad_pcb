@@ -566,7 +566,7 @@
 		(descr "Diode SMA (DO-214AC)")
 		(tags "Diode SMA (DO-214AC)")
 		(property "Reference" "D1"
-			(at -0.02 -2.35 180)
+			(at 0 -2.32 180)
 			(layer "F.SilkS")
 			(uuid "6eaaf977-ea85-40d0-83ea-addc2c85250f")
 			(effects
@@ -3275,7 +3275,7 @@
 	(footprint "Tachyon_Library:CONV_B0505S-1WR3-TH"
 		(layer "F.Cu")
 		(uuid "9cd287d4-5f9b-4f1f-bc1a-08f26aa79293")
-		(at 190.25 68.23)
+		(at 189.88 59.6)
 		(property "Reference" "PS1"
 			(at 3.11 -3.9 0)
 			(layer "F.SilkS")
